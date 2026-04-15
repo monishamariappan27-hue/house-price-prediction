@@ -1,0 +1,20 @@
+# House Price Prediction 🏠
+
+## 📌 Objective
+Predict house prices using machine learning.
+
+## ⚙️ Algorithm Used
+Linear Regression
+
+## 📊 Features
+- Area
+- Bedrooms
+- Bathrooms
+
+## 📈 Results
+- Model Score: 0.64
+- Successfully predicted house prices
+
+## ▶️ How to Run
+pip install -r requirements.txt
+python model.py
